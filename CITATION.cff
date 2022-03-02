@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite Van Wyk de Vries et al. 2022, Glacier thickness and ice volume of the inner tropical Andes"
+authors:
+- family-names: "Van Wyk de Vries"
+  given-names: "Maximillian"
+  orcid: "https://orcid.org/0000-0002-8358-1466"
+- family-names: "Carchipulla Morales"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-5770-2116"
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+- family-names: "Minaya"
+  given-names: "Verónica D."
+  orcid: "https://orcid.org/0000-0002-8358-1466"
+title: "GRLP"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.6323069
+date-released: 2022-03-02
+url: "https://doi.org/10.5281/zenodo.6323069"
